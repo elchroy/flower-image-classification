@@ -1,0 +1,8 @@
+/flowers
+hours.csv
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+checkpoints_dir/
+flowers/
+hours.csv
